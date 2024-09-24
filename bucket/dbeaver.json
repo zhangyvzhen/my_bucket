@@ -16,7 +16,7 @@
             "hash": "70251914d758bc8559bb562116d57a2b3645362982d5bf97e29ef1bf08e49ac7"
         }
     },
-    "extract_dir": "dbeaver-ue",
+    "extract_dir": "dbeaver",
     "bin": [
         "dbeaver.exe",
         "dbeaver-cli.exe"
